@@ -1,0 +1,1 @@
+Algorithm that regognizes ongoing human actions. The input information about the user's skeleton is obtained from a kinect sensor.
